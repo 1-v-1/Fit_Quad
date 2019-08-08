@@ -35,6 +35,7 @@ if __name__ == '__main__':
         filename = 'images/img_back_{}_img.png'.format(i)
         print(filename)
         image, screenCnt = fit_quad(filename)
+        cv.imwrite('images/img_{}.jpg'.format(i), image)
 
         if screenCnt is not None:
             cv.drawContours(image, [screenCnt], -1, (0, 255, 0), 3)
