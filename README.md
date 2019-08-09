@@ -24,6 +24,8 @@ $ python fit.py
 |![image](https://github.com/foamliu/Fit_Quad/raw/master/images/img_10.jpg)|![image](https://github.com/foamliu/Fit_Quad/raw/master/images/out_10.jpg)|
 |![image](https://github.com/foamliu/Fit_Quad/raw/master/images/img_11.jpg)|![image](https://github.com/foamliu/Fit_Quad/raw/master/images/out_11.jpg)|
 |![image](https://github.com/foamliu/Fit_Quad/raw/master/images/img_12.jpg)|![image](https://github.com/foamliu/Fit_Quad/raw/master/images/out_12.jpg)|
+|![image](https://github.com/foamliu/Fit_Quad/raw/master/images/img_13.jpg)|![image](https://github.com/foamliu/Fit_Quad/raw/master/images/out_13.jpg)|
+|![image](https://github.com/foamliu/Fit_Quad/raw/master/images/img_14.jpg)|![image](https://github.com/foamliu/Fit_Quad/raw/master/images/out_14.jpg)|
 
 Output:
 

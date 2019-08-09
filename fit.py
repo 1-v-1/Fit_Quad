@@ -31,7 +31,7 @@ def fit_quad(filename):
 
 
 if __name__ == '__main__':
-    for i in range(13):
+    for i in range(15):
         filename = 'images/img_back_{}_img.png'.format(i)
         print(filename)
         image, screenCnt = fit_quad(filename)
