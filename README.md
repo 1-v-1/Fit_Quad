@@ -90,6 +90,13 @@ images/img_back_12_img.png
  [110 381]
  [456 380]
  [483  99]]
+images/img_back_13_img.png
+[[449  90]
+ [443 280]
+ [ 82 275]
+ [ 71 101]]
+images/img_back_14_img.png
+None
 
 Process finished with exit code 0
 </pre>
